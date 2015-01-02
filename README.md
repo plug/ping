@@ -8,6 +8,6 @@ La liste des tickets est [accessible ici](https://github.com/plug/ping/issues?q=
 
 Vous pouvez aussi trouver le PLUG sur Twitter : [@plugfr](http://twitter.com/plugfr).
 
-Faire tout cela aux yeux de tous permet d'attirer plus d'opinions, plus d'idées, plus de richesse que de personne à personne par e-mail.
+Faire tout cela aux yeux de tous permet d’attirer plus d’opinions, plus d’idées, plus de richesse que de personne à personne par e-mail.
 
-L'idée est venue de l'excellent podcast [The Changelog](https://github.com/thechangelog/ping) qui a adapté une idée originale de [Zack Holman](https://github.com/holman/feedback).
+L’idée est venue de l’excellent podcast [The Changelog](https://github.com/thechangelog/ping) qui a adapté une idée originale de [Zack Holman](https://github.com/holman/feedback).
